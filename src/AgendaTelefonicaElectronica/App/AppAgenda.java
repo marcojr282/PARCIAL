@@ -21,7 +21,7 @@ public class AppAgenda {
         Agenda.eliminarContacto(444);
 
         // Buscar contactos por nombre (buscar "Marco")
-        Agenda.buscarPorNombre("Marco");
+        Agenda.buscarPorNombre("Camilo");
 
         // Buscar contactos por apellido (buscar "Ciro")
         Agenda.buscarPorApellido("Ciro");
